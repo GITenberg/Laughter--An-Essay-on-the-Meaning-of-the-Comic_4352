@@ -1,0 +1,50 @@
+_repo: Laughter--An-Essay-on-the-Meaning-of-the-Comic_4352
+_version: 0.0.1
+alternative_title: Le rire. English
+contributor:
+  translators:
+  - agent_name: Rothwell, Fred
+    aliases:
+    - Rothwell, Frederick
+    - Rothwell, F. (Frederick)
+    birthdate: 1869
+    gutenberg_agent_id: '1464'
+    url: http://www.gutenberg.org/2009/agents/1464
+  - agent_name: Brereton, Cloudesley
+    alias: Brereton, Cloudesley Shovell Henry
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '1463'
+    url: http://www.gutenberg.org/2009/agents/1463
+creator:
+  author:
+    agent_name: Bergson, Henri
+    aliases:
+    - Bergson, H. (Henri)
+    - Bergson, Henri Louis
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '1462'
+    url: http://www.gutenberg.org/2009/agents/1462
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Bergson
+description: What does laughter mean?" In this pioneering, idiosyncratic 1900 work,
+  the great philosopher traveled where few before Freud dared to venture. Examining
+  laughter from a psychological, social, and moral perspective, Bergson finds a source
+  of our common humanity. He revised the work while supervising this English translation.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Philosophy, French'
+- !lcsh 'Laughter'
+- !lcsh 'Comedy'
+- GITenberg
+title: 'Laughter: An Essay on the Meaning of the Comic'
+url: http://www.gutenberg.org/ebooks/4352
