@@ -1,5 +1,5 @@
 _repo: Laughter--An-Essay-on-the-Meaning-of-the-Comic_4352
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le rire. English
 contributor:
   translators:
@@ -16,6 +16,9 @@ contributor:
     deathdate: 1937
     gutenberg_agent_id: '1463'
     url: http://www.gutenberg.org/2009/agents/1463
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bergson, Henri
@@ -31,6 +34,8 @@ description: What does laughter mean?" In this pioneering, idiosyncratic 1900 wo
   the great philosopher traveled where few before Freud dared to venture. Examining
   laughter from a psychological, social, and moral perspective, Bergson finds a source
   of our common humanity. He revised the work while supervising this English translation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4352#Laughter--An-Essay-on-the-Meaning-of-the-Comic
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
